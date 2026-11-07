@@ -2,6 +2,12 @@
 
 [![Capa do Projeto](2_imagens/1-inicio_techglobal.png)](2_imagens/1-inicio_techglobal.png)
 
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMzZkZWQ3YzktMDc1Zi00OTE0LWI3NDAtMTFmNDQ2MzEzY2NlIiwidCI6ImIxZjQxMDEzLWU0NDUtNGIzNS1hNzA4LTA2YTk5ZTZjZWQ2ZSJ9"><img src="https://img.shields.io/badge/Ver%20no%20Power%20BI%20Service-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Ver no Power BI Service"></a>
+</p>
+
+> 🔓 **Relatório interativo aberto**, sem login: clique no botão acima. Todos os dados são fictícios.
+
 ## 📌 Sobre o Projeto
 
 Projeto de portfólio que analisa a operação de SAC da **Tech Global**, uma empresa fictícia que atende três clientes: Aurora Varejo, Horizonte Financeiro e Viva Saúde. A base cobre **12 meses (OUT/25 a SET/26)**, com **2.000 solicitações**, das quais **1.808 foram concluídas**.
